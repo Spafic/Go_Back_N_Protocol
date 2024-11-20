@@ -45,12 +45,6 @@ No additional dependencies are required as the script uses Python's standard lib
 python main.py
 ```
 
-#### Example
-```sh
-Enter message: Hello
-Enter window size: 3
-```
-
 #### User Inputs
 1. Message to transmit
 2. Window size for transmission
@@ -125,4 +119,3 @@ This project demonstrates fundamental concepts in network transmission protocols
 
 ### 📜 License
 This project is licensed under the MIT License. See the [MIT LICENSE](./LICENSE) file for more details.
-
