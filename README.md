@@ -90,7 +90,7 @@ We welcome contributions to enhance the Go-Back-N Protocol Transmission Simulato
 1. **Fork the Repository**: Click the "Fork" button at the top right of the repository page to create a copy of the repository in your GitHub account.
 2. **Clone Your Fork**: Clone your forked repository to your local machine.
     ```sh
-    git clone https://github.com/Spafic/Go_Back_N_Protocol.git
+    git clone https://github.com/YourUsername/Go_Back_N_Protocol.git
     cd Go_Back_N_Protocol
     ```
 3. **Create a Feature Branch**: Create a new branch for your feature or bug fix.
